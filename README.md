@@ -1,8 +1,4 @@
-# NEXUS AI — Host Your Own AI Teacher
-
-> Train a model. Host it. Replace tutors. Zero monthly AI cost.
-
----
+>AI poweered Virtual teaching assistant
 
 ## What This Is
 
